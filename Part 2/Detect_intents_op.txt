@@ -1,0 +1,2184 @@
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please can you send me the proof of NCD?
+Detected intent: ncd_proof (confidence: 1.0)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please can you send me the proof of ncd  for policy xxx ?
+Detected intent: ncd_proof (confidence: 1.0)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you please send me a proof of No Claims Bonus ?
+Detected intent: ncd_proof (confidence: 1.0)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you please send me a proof of No Claims Discount?
+Detected intent: ncd_proof (confidence: 1.0)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you please send me an up to date NCD confirmation? 
+Detected intent: ncd_proof (confidence: 1.0)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I'm not renewing. Please send my proof of No Claims Discount.
+Detected intent: ncd_proof (confidence: 0.3100000023841858)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hello, can you please send me proof of my NCD for my new insurer?
+Detected intent: ncd_proof (confidence: 0.6600000262260437)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please can you send me my NCD as i need to use it for another car / policy ?
+Detected intent: ncd_proof (confidence: 0.4399999976158142)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've now cancelled my policy. Could you please send me my proof of No Claims Discount ?
+Detected intent: ncd_policy_canceled (confidence: 0.6299999952316284)
+
+Expected Intent: ncd_proof
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've changed my email address. Could you please resent me my proof of No Claims Discount.
+Detected intent: ncd_email (confidence: 0.4000000059604645)
+
+Expected Intent: ncd_proof
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've cancelled my policy today. When will I be able to see and print out an update NCD proof for new insurer?
+Detected intent: ncd_policy_canceled (confidence: 0.44999998807907104)
+
+Expected Intent: ncd_proof
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you please send me a proof of No Claims discount . I cancelled my policy but I have not received an email with the NCD document. Can you please resent ?
+Detected intent: ncd_proof (confidence: 0.6100000143051147)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi.I need proof of my ncd and also stating that from the start of my policy to present date I have made no claims or had any accidents please can you provide this in writing via email asap. 
+Detected intent: no_ncd (confidence: 0.2800000011920929)
+
+Expected Intent: ncd_proof
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I need proof of my ncd and also stating that from the start of my policy to present date I have made no claims or had any accidents, please can you provide this in writing via email?
+Detected intent: no_ncd (confidence: 0.28999999165534973)
+
+Expected Intent: ncd_proof
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please email our proof of No Claims Discount on the car we have insured with you as we need proof of NCD to enable us to insure our new Motorhome with the Caravan and Motorhome club.
+Detected intent: ncd_email (confidence: 0.4399999976158142)
+
+Expected Intent: ncd_proof
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hey I would like to request my NCD proof. I have cancelled my insurance and yet I have not received my NCD proof which I need for my new insurance. Pleas could you send it to me as soon as possible.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_proof
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you send me my NCD ?
+Detected intent: ncd_proof (confidence: 0.6800000071525574)
+
+Expected Intent: ncd_proof
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I thought my NCD was X years it appears to be Y years, is that a problem?
+Detected intent: ncd_change_years (confidence: 1.0)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I cannot upload my NCD also I quoted X yrs but it is Y years how do I alter this?
+Detected intent: ncd_change_years (confidence: 1.0)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I put in X years NCD and it's actually Y...How can I change the quote etc please?
+Detected intent: ncd_change_years (confidence: 1.0)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi I've made a mistake on my policy. I've got X years NCD not Y. Can you please change it for me?
+Detected intent: ncd_change_years (confidence: 1.0)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text:  When I fill an application I was sure I have no claim more than X year. I'm afraid, I have Y. Please help.
+Detected intent: ncd_change_years (confidence: 1.0)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I'm trying to upload my NCD but I need to change the number of years as I only have X yea NCD instead of Y. 
+Detected intent: ncd_upload (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_change_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi I entered X years no claims when I actually have Y years. Please can you update your records and adjust the price. 
+Detected intent: ncd_change_years (confidence: 0.5899999737739563)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I need to upload my NCD but have realised I've made an error. I only have x years NCD instead of Y. How do I rectify this? 
+Detected intent: ncd_change_years (confidence: 0.5400000214576721)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: When I took the policy I said I have X years NCD but when I phoned my insurance I actually had Y. Could you please update?
+Detected intent: ncd_change_years (confidence: 0.4699999988079071)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: HiWhen I buy my car insurance i mark NCD as X years but recognise is Y years already.Is any possibility to review my policy and I will get better offer?
+Detected intent: ncd_change_years (confidence: 0.4699999988079071)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: have quoted my NCD as X years but my current insurance document shows only Y years and not the NCD I've had with previous insurers. Please advise.
+Detected intent: ncd_change_years (confidence: 0.36000001430511475)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: When filling out the quote questionnaire I thought I had put X NCB but I hit Y year NCB. Can you please recalculate my insurance without the Y year NCB discount.
+Detected intent: ncd_change_years (confidence: 0.5699999928474426)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: While applying for Insurance I had incorrectly mentioned NCD as X years however I have Y years as per the letter from my previous insurer. Kindly update your record
+Detected intent: ncd_change_years (confidence: 0.3199999928474426)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I started my policy with X years ncd but now have my Y years from my prior insurer and would like to upload and also have my policy changed to reflect this Please help.
+Detected intent: ncd_change_years (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: sorry I stated that I had X years no claims but my previous insurance have said that I Have Y years and they will send over the NCD tonight is there anyway I can change this?
+Detected intent: ncd_change_years (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I Have put in the wrong number of years for the NCD can you change it from X years to Y years and update my policy so that the direct debit payment should be lower as well.
+Detected intent: ncd_change_years (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi I insured my car yesterday. I put X year NCD. My previous Insurance Company said to me that I have Y Years NCD. If I send X years NCD is there any deduction by any chance ? Please let me know.
+Detected intent: ncd_change_years (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi, I need to amend my policy NCD years to X instead of Y as stated on my policy. I was under the impression that I had X years no claims but my documents I will send across as proof state just Y. is this a problem? 
+Detected intent: ncd_change_years (confidence: 0.4399999976158142)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've just receiv d my ncd details from my last insurer and it is showing as only X years rather than the Y that we're stored in the price comparison website I used. Do I need to cancel my policy as the details I applied with are incorrect.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_change_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi there when I put in my details I said that I had X year NCD. When I received my proof from my previous insurance company I realised that it should actually be Y years. I have tried to upload the proof online, but it will not let me as it says you have
+Detected intent: ncd_change_years (confidence: 0.33000001311302185)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: When I applied for the insurance policy I thought I had X years NCD. But it turns out I only have Y for this car. The X years has been accumulated on our *other* car. Shall I just upload evidence of the Y years or do you need to recalculate the price of 
+Detected intent: ncd_change_years (confidence: 0.4000000059604645)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi. When I bought the policy I put the wrong amount of NCD years.This should have been X (not Y).Is there any way you could amend the policy and if there is any reduction in the policy fee I would be very grateful if you could refund it to my card
+Detected intent: ncd_change_years (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have sent though my previous years NCD which states X years. I actually have Y years could you please update you records and I will forward you the new for as soon as my previous emplyer sends me it.They stated I had X years by mistake I actually have 
+Detected intent: ncd_change_years (confidence: 0.44999998807907104)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: When completing my quote I entered that I had X year of NCD and the proof I sent also shows X year. Upon looking through my documents it is showing Y years of NCD as information provided by me which is incorrect and the cost of my premiums has been lower
+Detected intent: ncd_change_years (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_change_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I don’t know to upload my NCD.
+Detected intent: ncd_upload (confidence: 1.0)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can't find the link to upload NCD.
+Detected intent: ncd_upload (confidence: 1.0)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How do I upload my proof of NCD ?
+Detected intent: ncd_upload (confidence: 1.0)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Iam unsure how to upload my NCD 
+Detected intent: ncd_upload (confidence: 1.0)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am having trouble uploading my NCD. 
+Detected intent: ncd_upload (confidence: 1.0)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Having a problem uploading ncd. Please help?
+Detected intent: ncd_upload (confidence: 0.36000001430511475)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Iam unsure how to upload my No Claims Bonus
+Detected intent: ncd_upload (confidence: 0.550000011920929)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How do I upload my proof of No Claims Bonus?
+Detected intent: ncd_upload (confidence: 0.5699999928474426)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How do I upload my proof of No Claims Discount?
+Detected intent: ncd_upload (confidence: 0.5299999713897705)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Iam unsure how to upload my No Claims Discount
+Detected intent: ncd_upload (confidence: 0.5)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am having trouble uploading my No Claims Bonus.
+Detected intent: ncd_upload (confidence: 0.5899999737739563)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am having trouble uploading my No Claims Discount.
+Detected intent: ncd_upload (confidence: 0.550000011920929)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you send me instructions on how to upload my NCD?
+Detected intent: ncd_upload (confidence: 0.5799999833106995)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I don't know how to upload my No Claims Bonus. Can you help?
+Detected intent: ncd_upload (confidence: 0.3700000047683716)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I don't know how to upload my No Claims Discount. Can you help?
+Detected intent: ncd_upload (confidence: 0.3199999928474426)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you send me instructions on how to upoload my No Claims Discount?
+Detected intent: ncd_proof (confidence: 0.5899999737739563)
+
+Expected Intent: ncd_upload
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can not upload my NCD as I don't have a scanner and cannot borrow one either.
+Detected intent: ncd_upload (confidence: 0.3499999940395355)
+
+Expected Intent: ncd_upload
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My insurer have sent my NCD in the form of an email How can I send this on to you? 
+Detected intent: ncd_email (confidence: 0.25999999046325684)
+
+Expected Intent: ncd_upload
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have taken a picture of my NCD letter from my previous insurer, but it won't upload?
+Detected intent: ncd_contact_other_insurer (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_upload
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please can you protect my NCD?
+Detected intent: ncd_protect (confidence: 1.0)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please add protection to my NCD
+Detected intent: ncd_protect (confidence: 1.0)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could you please add protection to my NCD?
+Detected intent: ncd_protect (confidence: 1.0)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please add protection to my No Claims Bonus.
+Detected intent: ncd_protect (confidence: 1.0)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you add protection to my No Claims Discount?
+Detected intent: ncd_protect (confidence: 1.0)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please can you protect my proof of No Claims Discount?
+Detected intent: ncd_protect (confidence: 0.5899999737739563)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How can I add protection to my No Claims Bonus? Help.
+Detected intent: ncd_protect (confidence: 0.6299999952316284)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How can I add protection to my No Claims Discount? Help.
+Detected intent: ncd_protect (confidence: 0.6200000047683716)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could you please add protection to my No Claims Bonus? 
+Detected intent: ncd_protect (confidence: 0.8799999952316284)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I wish to protect my NCD but cannot amend my policy
+Detected intent: no_ncd (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_protect
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I wish to protect my No Claims Bonus but cannot amend my policy.
+Detected intent: ncd_protect (confidence: 0.44999998807907104)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I wish to protect my No Claims Discount but cannot amend my policy
+Detected intent: ncd_protect (confidence: 0.4399999976158142)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Is it possible to renew my car policy but add NCD protection to the policy????
+Detected intent: ncd_protect (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Is it possible to renew my car policy but add No Claims Bonus protection to the policy????
+Detected intent: ncd_protect (confidence: 0.5099999904632568)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Is it possible to renew my car policy but add No Claims Discount protection to the policy????
+Detected intent: ncd_protect (confidence: 0.5099999904632568)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am struggling to upload my picture of my NCD as I can find where in your website. Please help me
+Detected intent: ncd_upload (confidence: 0.36000001430511475)
+
+Expected Intent: ncd_protect
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I note that my NCD is showing as unprotected. I was sure that I opted to protect my NCD. Please help me.
+Detected intent: ncd_protect (confidence: 0.33000001311302185)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am struggling to upload my picture of my No Claims Bonus as I can find where in your website. Please help me.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_protect
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to protect my NCD when I renew but I can't see where to make this change. Can you make the change?
+Detected intent: ncd_protect (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to protect my No Claims Discount when I renew but I can't see where to make this change. Can you make the change?
+Detected intent: ncd_protect (confidence: 0.4099999964237213)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to protect my No Claims Bonus when I renew but I can't see where to make this change. Can you make the change?
+Detected intent: ncd_protect (confidence: 0.4099999964237213)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to add protection to my NCD, can I do so even though I have already purchased my insurance in full?
+Detected intent: ncd_protect (confidence: 0.4300000071525574)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am struggling to upload my picture of my No Claims Discount as I can find where in your website. Please help me.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_protect
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I note that my No Claims Bonus is showing as unprotected. I was sure that I opted to protect my NCD. Please help me.
+Detected intent: ncd_protect (confidence: 0.4099999964237213)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I note that my No Claims Discount is showing as unprotected. I was sure that I opted to protect my NCD. Please help me.
+Detected intent: ncd_protect (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to add protection to my No Claims Bonus can I do so even though I have already purchased my insurance in full.
+Detected intent: ncd_protect (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to add protection to my No Claims Discount can I do so even though I have already purchased my insurance in full.
+Detected intent: ncd_protect (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to protect my NCD when I renew but I can't see where to make this change.  Can you make the change?
+Detected intent: ncd_protect (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_protect
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please check your records and advise how many years NCD I have?
+Detected intent: ncd_years_have (confidence: 1.0)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please check your records and advise how many years No Claims Bonus I have?
+Detected intent: ncd_years_have (confidence: 1.0)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please check your records and advise how many years No Claims Discount I have?
+Detected intent: ncd_years_have (confidence: 1.0)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to check how many years NCD you have on record.
+Detected intent: ncd_years_have (confidence: 1.0)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to check how many years No Claims Bonus you have on record.
+Detected intent: ncd_years_have (confidence: 1.0)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to check how many years No Claims Discount you have on record.
+Detected intent: ncd_years_have (confidence: 0.8999999761581421)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can't find the proof of my NCD and how many years i have left on it. Can you please help?
+Detected intent: ncd_years_have (confidence: 0.30000001192092896)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can't find the proof of my No Claims Bonus and how many years i have left on it. Can you please help?
+Detected intent: ncd_years_have (confidence: 0.3400000035762787)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can't find the proof of my No Claims Discount and how many years i have left on it. Can you please help?
+Detected intent: ncd_years_have (confidence: 0.3400000035762787)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Need to find out how many years NCD I have when my policy is up for renewal
+Detected intent: ncd_years_have (confidence: 0.3799999952316284)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Need to find out how many years No Claims Bonus I have when my policy is up for renewal
+Detected intent: ncd_years_have (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Need to find out how many years No Claims Discount I have when my policy is up for renewal
+Detected intent: ncd_years_have (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to know is how many years have i got now on my NCD so I can shop around 
+Detected intent: ncd_years_have (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to know is how many years have i got now on my No Claims Bonus so I can shop around 
+Detected intent: ncd_years_have (confidence: 0.47999998927116394)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would like to know is how many years have i got now on my No Claims Discount so I can shop around 
+Detected intent: ncd_years_have (confidence: 0.47999998927116394)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please could you tell me how many years NCD I currently have?
+Detected intent: ncd_years_have (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please could you tell me how many years No Claims Bonus I currently have?
+Detected intent: ncd_years_have (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please could you tell me how many years No Claims Discount I currently have?
+Detected intent: ncd_years_have (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I need to know how many years NCD I currently have.
+Detected intent: ncd_years_have (confidence: 0.4699999988079071)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I need to know how many years No Claims Bonus I currently have.
+Detected intent: ncd_years_have (confidence: 0.5)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I need to know how many years No Claims Discount I currently have.
+Detected intent: ncd_years_have (confidence: 0.5)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How many years NCD I will have when my policy ends?
+Detected intent: no_ncd (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_years_have
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How many years No Claims Bonus will have when my policy ends?
+Detected intent: ncd_years_have (confidence: 0.3799999952316284)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: How many years No Claims Discount will have when my policy ends?
+Detected intent: ncd_years_have (confidence: 0.3799999952316284)
+
+Expected Intent: ncd_years_have
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have xx years NCD why I am showing 9 years? Can you please change it for me?
+Detected intent: ncd_9_years (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have xx years No Claims Bonus why I am showing 9 years? Can you please change it for me?
+Detected intent: ncd_9_years (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have xx years No Claims Discount why I am showing 9 years? Can you please change it for me?
+Detected intent: ncd_9_years (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD is showing as 9 years. I have x years NCD .Can you please amend ?
+Detected intent: ncd_9_years (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My No Claim Bonus is showing as 9 years. I have x years NCD .Can you please amend ?
+Detected intent: ncd_9_years (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My No Claim Discount is showing as 9 years. I have x years NCD .Can you please amend ?
+Detected intent: ncd_9_years (confidence: 0.9100000262260437)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: The NCD certificate provided only states 9+ instead of the full X yrs I have accrued.Please can you provide me with an NCD certificate that confirms the full X yrs I have earned.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: The No Claims Bonus certificate provided only states 9+ instead of the full X yrs I have accrued.Please can you provide me with certificate that confirms the full X yrs I have earned.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: The No Claims Discount certificate provided only states 9+ instead of the full X yrs I have accrued.Please can you provide me with the certificate that confirms the full X yrs I have earned.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: It's showing only 9 years NCD on my policy I supplied proof of X years. Could it please be changed?
+Detected intent: ncd_9_years (confidence: 0.3499999940395355)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: It's showing only 9 years No Claims Bonus on my policy I supplied proof of X years. Could it please be changed?
+Detected intent: ncd_9_years (confidence: 0.3700000047683716)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: It's showing only 9 years No Claims Discount on my policy, I supplied proof of X years. Could it please be changed?
+Detected intent: ncd_9_years (confidence: 0.3700000047683716)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have over 9 years NCD.  Can we preserve my X years NCD history if we take out a policy with you.
+Detected intent: no_ncd (confidence: 0.3499999940395355)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have over 9 years No Claims Bonus.  Can we preserve my X years NCD history if we take out a policy with you.
+Detected intent: ncd_9_years (confidence: 0.3400000035762787)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have over 9 years No Claims Discount.  Can we preserve my X years NCD history if we take out a policy with you.
+Detected intent: ncd_9_years (confidence: 0.33000001311302185)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have X years NCD but my policy is stating 9 years which needs amending
+Detected intent: no_ncd (confidence: 0.4399999976158142)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have X years No Claims Bonus but my policy is stating 9 years which needs amending
+Detected intent: ncd_9_years (confidence: 0.4300000071525574)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have X years No Claims Discount but my policy is stating 9 years which needs amending
+Detected intent: ncd_9_years (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_9_years
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just seen on my policy that it states I have a NCD of 9 years. This is incorrect I have much more than that. Please advise 
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just seen on my policy that it states I have a No Claims Bonus of 9 years. This is incorrect I have much more than that. Please advise 
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just seen on my policy that it states I have a No Claims Discount of 9 years. This is incorrect I have much more than that. Please advise 
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi i just noticed on my policy that i have 9 years NCD but its meant to be X years.
+Detected intent: ncd_change_years (confidence: 0.4099999964237213)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi i just noticed on my policy that i have 9 years No Claims Bonus but its meant to be X years.
+Detected intent: ncd_change_years (confidence: 0.3499999940395355)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi i just noticed on my policy that i have 9 years No Claims Discount but its meant to be X years.
+Detected intent: ncd_change_years (confidence: 0.3499999940395355)
+
+Expected Intent: ncd_9_years
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have no NCD proof for current car can I proceed with my policy?
+Detected intent: no_ncd (confidence: 1.0)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I don't have a proof of NCD. Is it ok?
+Detected intent: no_ncd (confidence: 1.0)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I lost my NCD due to a claim. Can I still purchase my policy with zero years?
+Detected intent: no_ncd (confidence: 1.0)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just received an email from my old insurer stating that I have no NCD. How can I amend my policy?
+Detected intent: no_ncd (confidence: 1.0)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Im stuggling to get my NCD can I have my policy with zero years NCD?
+Detected intent: no_ncd (confidence: 1.0)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have now 2 vehicles but no NCD. Can I purchase a policy with zero years NCD?
+Detected intent: no_ncd (confidence: 0.7200000286102295)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have no NCD proof for current car. Do I have to cancel or can I go ahead with zero years?
+Detected intent: no_ncd (confidence: 0.7200000286102295)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I just found out I have no NCD. Is it a problem to reduce my NCD to zero?
+Detected intent: no_ncd (confidence: 0.5799999833106995)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Will be a problem if I complete my quote with zero years NCD?
+Detected intent: no_ncd (confidence: 0.3799999952316284)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Is it an issue if I have no NCD? 
+Detected intent: no_ncd (confidence: 0.3799999952316284)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What happen to my policy if I have no NCD ? 
+Detected intent: no_ncd (confidence: 0.46000000834465027)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What happen to my new policy If I change my policy to zero years NCD?
+Detected intent: no_ncd (confidence: 0.4099999964237213)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I still keep my policy if I don't provide my NCD?
+Detected intent: no_ncd (confidence: 0.4000000059604645)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Do I have to cancel my policy if I don't provide a NCD? Just found out I have zero years.
+Detected intent: no_ncd (confidence: 0.44999998807907104)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My previous insurer just told me I have zero years NCD. Can I still keep my new policy?
+Detected intent: no_ncd (confidence: 0.49000000953674316)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I won't be able to provide a proof of NCD. Does it mean I have to cancel my policy?
+Detected intent: ncd_policy_canceled (confidence: 0.44999998807907104)
+
+Expected Intent: no_ncd
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My certificate shows I have zero years. Do I have to cancel my policy?
+Detected intent: no_ncd (confidence: 0.33000001311302185)
+
+Expected Intent: no_ncd
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just taken out this policy and realised my NCD may not be accepted as I drove a company car before this one.
+Detected intent: ncd_other_company (confidence: 1.0)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just seen that you do not accept evidence of NCD for company cars. I have a letter from my company fleet department; why can't this be used?
+Detected intent: ncd_other_company (confidence: 1.0)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: You will see I have submitted a NCD for a company car. Can you accept it?
+Detected intent: ncd_other_company (confidence: 1.0)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have been under a company car insurance policy for the last X years or so. Can you accept it?
+Detected intent: ncd_other_company (confidence: 1.0)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My proof of NCD is from my employers as I have had a company car in recent years. I was under the impression that this would be acceptable please advise.
+Detected intent: ncd_other_company (confidence: 1.0)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have held a company car for X years,Please can you advise how I proceed - will you accept this letter from my employer?  
+Detected intent: ncd_other_company (confidence: 0.6499999761581421)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just taken out this policy and realised my NCD may not be accepted as I drove a company car before this one. Please help.
+Detected intent: ncd_other_company (confidence: 1.0)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My policy is new. I have just realised I can't use my proof of NCD earned by my company car. Can you have a look at it for me?
+Detected intent: ncd_other_company (confidence: 0.5)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Why can't I use my NCD earned from a company car? I have over X years.
+Detected intent: ncd_other_company (confidence: 0.5600000023841858)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could you please let me know if I can use my X years of NCD from my company car?
+Detected intent: ncd_other_company (confidence: 0.4399999976158142)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: All my NCD is earned from my company vehicle. Can you help me?
+Detected intent: ncd_other_company (confidence: 0.2800000011920929)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've been driving my company car for the last X years. I have no NCD from private car. Help me
+Detected intent: ncd_other_company (confidence: 0.5600000023841858)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can provide more than X years NCD from company car, why can I use it?
+Detected intent: ncd_other_company (confidence: 0.38999998569488525)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I wouldn't have purchase my policy if I knew I couldn't use my NCD earned from a company car. Can you please approve my NCD?
+Detected intent: ncd_other_company (confidence: 0.4099999964237213)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you please help me, my NCD is eanerd from a company car.
+Detected intent: ncd_other_company (confidence: 0.5299999713897705)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have been using my company car for more than X years and all my NCD comes from it. Can I use it?
+Detected intent: ncd_other_company (confidence: 0.44999998807907104)
+
+Expected Intent: ncd_other_company
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I use my NCD for my second vehicle. I'm using your multicar discount.
+Detected intent: ncd_mirror (confidence: 1.0)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Does your multicar discount allows me to use the same NCD on both policies?
+Detected intent: ncd_mirror (confidence: 1.0)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have 2 cars insured with you. Can I profit of the Multicar discount and use same NCD for both cars.
+Detected intent: ncd_mirror (confidence: 1.0)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have just purchased two policies with you. Can I use the same NCD ? I'm using your multicar discount
+Detected intent: ncd_mirror (confidence: 1.0)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have one car insured with you already - will I get another Multicar discount if I get a second one? Can I use the same NCD?
+Detected intent: ncd_mirror (confidence: 1.0)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have only one NCD, can I use that one on my second policy ? I'm on your multicar discount
+Detected intent: ncd_mirror (confidence: 0.6700000166893005)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: If I have a second policy with you using your multicar discount can use the same NCD?
+Detected intent: ncd_mirror (confidence: 0.8600000143051147)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: If you offer a multicar discount you should allow my NCD to be used on my second vehicle also.
+Detected intent: ncd_mirror (confidence: 0.5199999809265137)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've set up under a multicar policy.  Please can you amend the NCD to show Janice Sury at the same address.
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_mirror
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please validate my second vehicle with the NCD I have provided already. I'm on the multicar scheme.
+Detected intent: ncd_mirror (confidence: 0.36000001430511475)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would it be possible to mirror my NCD? I'm thinking of getting a second car and use your multicar discount
+Detected intent: ncd_mirror (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_mirror
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've been living abroad for the past x years. Can I use my NCD from x ?
+Detected intent: ncd_foreign (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you accept my NCD from x ?
+Detected intent: ncd_foreign (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD is from x. Can I still use it?
+Detected intent: ncd_foreign (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My previous insurer was from x. Do you accept it?
+Detected intent: ncd_foreign (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD is not from the UK it's from x. Can you accept it?
+Detected intent: ncd_foreign (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: The only proof of No Claims Discount I can provide is from x. Is it ok?
+Detected intent: ncd_foreign (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you accept my x proof of No Claims Discount?
+Detected intent: ncd_foreign (confidence: 0.25999999046325684)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: If I translate my NCD from x would you accept it?
+Detected intent: ncd_foreign (confidence: 0.7699999809265137)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can only provide a proof of NCD from x. Will it be accepted ?
+Detected intent: ncd_foreign (confidence: 0.550000011920929)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD was earn in my home country. Would you accept it? 
+Detected intent: ncd_foreign (confidence: 0.25999999046325684)
+
+Expected Intent: ncd_foreign
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you recognise my foreign No ClaimS Bonus?
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What if I have earned No Claim Discount on motor insurance overseas?
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you accept my proof from overseas?
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I hold an overseas proof of No Claims Discount. Would you accept it?
+Detected intent: Default Fallback Intent (confidence: 1.0)
+
+Expected Intent: ncd_foreign
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can only provide a proof of NCD from overseas. What is the procedure?
+Detected intent: ncd_combine (confidence: 0.33000001311302185)
+
+Expected Intent: ncd_foreign
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text:  is it possible to transfer my NCD to the second car?
+Detected intent: ncd_transfer (confidence: 1.0)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I please transfer my NCD from my vehicle x to y ?
+Detected intent: ncd_transfer (confidence: 1.0)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have 2 sets of NCDs. Can I transfer one of my NCDs to my partner?
+Detected intent: ncd_transfer (confidence: 1.0)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you arrange for a letter from yourselves advising that the NCD is transferred into my partner's name ?
+Detected intent: ncd_transfer (confidence: 1.0)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: We've bought a second car and would like to transfer our NCD from this policy to the new one. Is that possible?
+Detected intent: ncd_transfer (confidence: 1.0)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text:  is it possible to transfer my NCD to the second car?
+Detected intent: ncd_transfer (confidence: 1.0)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have a NCD applied to this policy. I would like to transfer the NCD across from x to Y. Please can you confirm it is possible?
+Detected intent: ncd_transfer (confidence: 0.6100000143051147)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could I please have my partner's NCD transfer to me?
+Detected intent: ncd_transfer (confidence: 0.550000011920929)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My partner is the policy holder on this policy. Can my NCD be transfer to him/her?
+Detected intent: ncd_transfer (confidence: 0.5099999904632568)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What do I have to do to transfer  my NCD to my partner?
+Detected intent: ncd_transfer (confidence: 0.6700000166893005)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What is the procedure to transfer my NCD to my partner?
+Detected intent: ncd_transfer (confidence: 0.7400000095367432)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I transfer my no claim discount (NCD) to another person?
+Detected intent: ncd_transfer (confidence: 0.5299999713897705)
+
+Expected Intent: ncd_transfer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Is the NCD tied to the policy or to the person ?
+Detected intent: no_ncd (confidence: 0.25999999046325684)
+
+Expected Intent: ncd_transfer
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Having a problem uploading ncd on my phone. When tap upload picture it won't do it and stops.
+Detected intent: ncd_phone_no_load (confidence: 1.0)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Your app is not working. How would I upload my proof of No Claims Discount.
+Detected intent: ncd_phone_no_load (confidence: 1.0)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Is there a problem with your app. I can't upload my NCD using my phone device.
+Detected intent: ncd_phone_no_load (confidence: 1.0)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I'am trying to upload my NCD discount but it wont let me and it through the app on my phone
+Detected intent: ncd_phone_no_load (confidence: 1.0)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi, I have proof of my ncd I am unable to upload this because your app is not working. 
+Detected intent: ncd_phone_no_load (confidence: 1.0)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Your app wont allow me to send my NCD proof. It keeps crashing
+Detected intent: ncd_phone_no_load (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Im trying to upload the NCD on the app and its not working saying...'Unexpected Response from Server length required'
+Detected intent: ncd_phone_no_load (confidence: 0.5400000214576721)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: On my mobile phone it doesn't allow me to upload it says attach but doesn't allow me to attach or proceed 
+Detected intent: ncd_phone_no_load (confidence: 0.30000001192092896)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am having trouble unloading my ncd. I use my phone and I watched video as well. It didn't work on that so I try using phone app but still  not letting me to upload my ncd.
+Detected intent: ncd_phone_no_load (confidence: 0.5199999809265137)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can't upload my NCD using the app. Please help.
+Detected intent: ncd_phone_no_load (confidence: 0.46000000834465027)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have tried sending it on the app but it comes up with an error on my phone I want to know what other way I can prove my NCD? 
+Detected intent: ncd_phone_no_load (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I cannot upload my ncd. Tried various ways and none of them work. I have used an I pad an android phone and an I mac..please advise
+Detected intent: ncd_phone_no_load (confidence: 0.3199999928474426)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Hi I'm having a problem to send my NCD. When I try to do this It show me unexpected response from server length required. I've tried on my ipad and my phone with no luck. Can you tell  me what to do?
+Detected intent: ncd_phone_no_load (confidence: 0.28999999165534973)
+
+Expected Intent: ncd_phone_no_load
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am having trouble getting proof of my  NCD could you contact my previous insurer for it please ?
+Detected intent: ncd_contact_other_insurer (confidence: 1.0)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can't find my proof of NCD. Could you please phone my previous insurer to confirm it? 
+Detected intent: ncd_contact_other_insurer (confidence: 1.0)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you contact my previous insurer regarding my NCD. I'm having problem finding it.
+Detected intent: ncd_contact_other_insurer (confidence: 1.0)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: If I can't provide my proof of NCD would you call my previous insurer for me?
+Detected intent: ncd_contact_other_insurer (confidence: 1.0)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could you please call my previous insurer to confirm my proof of NCD?
+Detected intent: ncd_contact_other_insurer (confidence: 1.0)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My previous insurer is able to provide the information about my NCD over the telephone. Could you please give them a call?
+Detected intent: ncd_contact_other_insurer (confidence: 0.6899999976158142)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would it be possible for you to contact my previous insurers?
+Detected intent: ncd_contact_other_insurer (confidence: 0.5699999928474426)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Is there any chance you can contact my previous insurer about my proof of No Claims Discount?
+Detected intent: ncd_contact_other_insurer (confidence: 0.550000011920929)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Regarding ncd do I have to contact my insurer or if I give you my policy number can you contact insurer on my behalf ?
+Detected intent: ncd_contact_other_insurer (confidence: 0.2800000011920929)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am having problems getting to a printer or scanner so can't send you my Ncd. Could you contact my previous insurer and request this information ?
+Detected intent: ncd_contact_other_insurer (confidence: 0.6399999856948853)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I would appreciate if you could call my previous insurer regarding my NCD. 
+Detected intent: ncd_contact_other_insurer (confidence: 0.699999988079071)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My previous insurance have said you can contact them for a verbal proof.
+Detected intent: ncd_contact_other_insurer (confidence: 0.49000000953674316)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could you confirm my NCD by calling my previous insurer?
+Detected intent: ncd_contact_other_insurer (confidence: 0.7799999713897705)
+
+Expected Intent: ncd_contact_other_insurer
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have driven a mobility vehicle since x this is the only ncd I have. Can you accept it?
+Detected intent: ncd_mobility (confidence: 1.0)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD is earned from Mobility. Would you validate it?
+Detected intent: ncd_mobility (confidence: 1.0)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've been using Mobility for the past x years. Can I use my NCD  ?
+Detected intent: ncd_mobility (confidence: 1.0)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you accept my NCD from Mobility ?
+Detected intent: ncd_mobility (confidence: 1.0)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD is from Mobility. Can I still use it?
+Detected intent: ncd_mobility (confidence: 1.0)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My previous NCD is from Mobility. Do you accept it?
+Detected intent: ncd_mobility (confidence: 0.8199999928474426)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: The only proof of No Claims Discount I can provide is from Mobility. Is it ok?
+Detected intent: ncd_mobility (confidence: 0.6100000143051147)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you accept my Mobility proof of No Claims Discount?
+Detected intent: ncd_mobility (confidence: 0.5799999833106995)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can only provide a proof of NCD from Mobility. Will it be accepted ?
+Detected intent: ncd_mobility (confidence: 0.6299999952316284)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD was earn from Mobility. Would you accept it? 
+Detected intent: ncd_mobility (confidence: 0.8600000143051147)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you recognise my mobility No Claims Bonus?
+Detected intent: ncd_mobility (confidence: 0.6499999761581421)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What if I have earned No Claim Discount on Mobility. Would you accept it?
+Detected intent: ncd_mobility (confidence: 0.5799999833106995)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you accept my proof from Mobility?
+Detected intent: ncd_mobility (confidence: 0.8799999952316284)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I hold a Mobility proof of No Claims Discount. Would you accept it?
+Detected intent: ncd_mobility (confidence: 0.5400000214576721)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can only provide a proof of NCD from Mobility. What is the procedure?
+Detected intent: ncd_mobility (confidence: 0.6800000071525574)
+
+Expected Intent: ncd_mobility
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Despite of sending my proof of NCD as required my policy has been cancelled. My question is WHY??
+Detected intent: ncd_policy_canceled (confidence: 1.0)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I had an email saying my proof of NCDs was accepted. However I have had a letter asking where is my NCD proof and my policy will be cancelled in 2 days.
+Detected intent: ncd_policy_canceled (confidence: 1.0)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've sent my proof of NCD but you still cancelled my policy. Please help?
+Detected intent: ncd_policy_canceled (confidence: 1.0)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have provided my proof of No Claims Discount but you still cancelled my policy. 
+Detected intent: ncd_policy_canceled (confidence: 1.0)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Why did you cancel my policy if I have already provided my NCD?
+Detected intent: ncd_policy_canceled (confidence: 1.0)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have uploaded my proof of NCD twice now and you have cancelled my NCD. Please reinstate?
+Detected intent: ncd_policy_canceled (confidence: 0.5)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could you please reinstate my policy for me? I have sent my NCD but you cancelled my policy?
+Detected intent: ncd_policy_canceled (confidence: 0.6899999976158142)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My policy has been cancelled in error - I uploaded My NCD within the time limit and yet the policy has been cancelled leaving me uninsured and unable to drive.
+Detected intent: ncd_policy_canceled (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I uploaded my NCD but have just had a message to say my car insurance has been cancelled 
+Detected intent: ncd_upload (confidence: 0.4699999988079071)
+
+Expected Intent: ncd_policy_canceled
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: You have cancelled my policy when I have an email from you saying you received my NCD. Please confirm.
+Detected intent: ncd_policy_canceled (confidence: 0.5899999737739563)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Please reinstate my policy. I have sent my proof of No Claims Discount.
+Detected intent: ncd_policy_canceled (confidence: 0.5199999809265137)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: You cancelled my policy when I have sent my NCD by email. Reinstate my policy please.
+Detected intent: ncd_policy_canceled (confidence: 0.7300000190734863)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I uploaded my NCD on x but you now cancel my policy. Please advise.
+Detected intent: ncd_upload (confidence: 0.3799999952316284)
+
+Expected Intent: ncd_policy_canceled
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: You cancelled my policy even though I have sent you my certificate of No Claims Discount.
+Detected intent: ncd_policy_canceled (confidence: 0.6600000262260437)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've received an email and text saying my policy has been cancelled because I havent uploaded my Proof of NCD. I have sent my proof and received email confirmation saying that everything was fine and I didn't need to do anything else.
+Detected intent: ncd_policy_canceled (confidence: 0.6000000238418579)
+
+Expected Intent: ncd_policy_canceled
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you let me know if you accept my NCD from my camper van?
+Detected intent: ncd_camper_van (confidence: 1.0)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have driven a camper van vehicle since x this is the only ncd I have. Can you accept it?
+Detected intent: ncd_camper_van (confidence: 1.0)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD is earned from a camper van. Would you validate it?
+Detected intent: ncd_camper_van (confidence: 1.0)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I've been using Mobility for the past x camper van. Can I use my NCD  ?
+Detected intent: ncd_camper_van (confidence: 1.0)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you accept my NCD from a camper van ?
+Detected intent: ncd_camper_van (confidence: 1.0)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD is from a Camper van. Can I still use it?
+Detected intent: ncd_camper_van (confidence: 0.8600000143051147)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My previous NCD is from a camper van. Do you accept it?
+Detected intent: ncd_camper_van (confidence: 0.8199999928474426)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: The only proof of No Claims Discount I can provide is from Camper van. Is it ok?
+Detected intent: ncd_camper_van (confidence: 0.6700000166893005)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you accept my Mobility proof of No Claims Discount?
+Detected intent: ncd_mobility (confidence: 0.5799999833106995)
+
+Expected Intent: ncd_camper_van
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can only provide a proof of NCD from camper van. Will it be accepted ?
+Detected intent: ncd_camper_van (confidence: 0.7099999785423279)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD was earn from my Camper van. Would you accept it? 
+Detected intent: ncd_camper_van (confidence: 0.8500000238418579)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you recognise my camper van No Claims Bonus?
+Detected intent: ncd_camper_van (confidence: 0.8500000238418579)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What if I have earned No Claim Discount on a camper van. Would you accept it?
+Detected intent: ncd_camper_van (confidence: 0.7300000190734863)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Would you accept my proof from a camper van?
+Detected intent: ncd_camper_van (confidence: 0.9800000190734863)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I hold a camper van proof of No Claims Discount. Would you accept it?
+Detected intent: ncd_camper_van (confidence: 0.699999988079071)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can only provide a proof of NCD from my camper van. What is the procedure?
+Detected intent: ncd_camper_van (confidence: 0.7400000095367432)
+
+Expected Intent: ncd_camper_van
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I post the NCD proof and if so to what address ?
+Detected intent: ncd_post (confidence: 1.0)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I don't know how to send your my proof of NCD. Can I post it to you? If so where to as I have no address. 
+Detected intent: ncd_post (confidence: 1.0)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My server will not allow me to send a photo of my NCD proof. Can I post a copy to you please?
+Detected intent: ncd_post (confidence: 1.0)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I can not upload my ncd. The pictures I am taking on my phone are not clear enough and I don't have a scanner. Where can I post the document?
+Detected intent: ncd_post (confidence: 1.0)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I post my proof of No Claims Discount ?
+Detected intent: ncd_post (confidence: 1.0)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What is the best address to post you my proof of No Claims Discount?
+Detected intent: ncd_post (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I'm having problems uploading my proof of No Claims Discount. Can I email you?
+Detected intent: ncd_email (confidence: 0.6499999761581421)
+
+Expected Intent: ncd_post
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Where can I post my proof of No Claims Discount to?
+Detected intent: ncd_post (confidence: 0.9200000166893005)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am struggling to upload my NCD can i send it by post or E mail?
+Detected intent: ncd_upload (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_post
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I need to provide my proof of No Claims Discount but I can't upload the document. Can I post it to you?
+Detected intent: ncd_post (confidence: 0.75)
+
+Expected Intent: ncd_post
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I email my proof of NCD and to what address ?
+Detected intent: ncd_email (confidence: 1.0)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I don't know how to upload you my proof of NCD. Can I email it to you. If so where to as I have no email address ?
+Detected intent: ncd_email (confidence: 1.0)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My server will not allow me to send a photo of my NCD proof. Can I email a copy to you please?
+Detected intent: ncd_email (confidence: 1.0)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can I email you my proof of No Claims Discount ?
+Detected intent: ncd_email (confidence: 1.0)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: What is the best email address to email you my proof of No Claims Discount?
+Detected intent: ncd_email (confidence: 1.0)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I'm having problems uploading my proof of No Claims Discount. Could I please email it to you?
+Detected intent: ncd_email (confidence: 0.44999998807907104)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Where can I email my proof of No Claims Discount to?
+Detected intent: ncd_email (confidence: 0.8500000238418579)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I am struggling to upload my NCD can i send it by post or E mail?
+Detected intent: ncd_upload (confidence: 0.41999998688697815)
+
+Expected Intent: ncd_email
+!!!!!!!!!!!!!!Wrong detection!!!!!!!!!!!!!!!!!!!!!
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I need to provide my proof of No Claims Discount but I can't upload the document. Can I email it to you?
+Detected intent: ncd_email (confidence: 0.7099999785423279)
+
+Expected Intent: ncd_email
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have 2 different proof of NCD from 2 different companies. Can I combine them both?
+Detected intent: ncd_combine (confidence: 1.0)
+
+Expected Intent: ncd_combine
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: If I provide 2 proofs of NCD can you add them up?
+Detected intent: ncd_combine (confidence: 1.0)
+
+Expected Intent: ncd_combine
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Could I add up 2 NCD proof?
+Detected intent: ncd_combine (confidence: 1.0)
+
+Expected Intent: ncd_combine
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: I have in total x years NCD but it is combined from 2 different insurers can you accept that?
+Detected intent: ncd_combine (confidence: 1.0)
+
+Expected Intent: ncd_combine
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you validate 2 proof of NCD from 2 different insurers?
+Detected intent: ncd_combine (confidence: 1.0)
+
+Expected Intent: ncd_combine
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: My NCD comes from 2 different companies. Would you accept it?
+Detected intent: ncd_combine (confidence: 0.5099999904632568)
+
+Expected Intent: ncd_combine
+Session path: projects/crypto-sphere-207116/agent/sessions/45468686-7487-4ee1-a7f9-32a990c9c428
+
+====================
+Query text: Can you please let me know if it's possible to combine 2 NCD from different insurers?
+Detected intent: ncd_combine (confidence: 0.550000011920929)
+
+Expected Intent: ncd_combine
