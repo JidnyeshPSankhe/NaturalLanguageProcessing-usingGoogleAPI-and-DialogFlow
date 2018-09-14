@@ -9,7 +9,7 @@ import os
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=r"Path to your json key"
 project_id = 'project id'
 language_code= 'en-US'
-session_id='45468686-7487-4ee1-a7f9-32a990c9c428'
+session_id='session-id'
 def create_texts():
     fp= open(r'Path to your data file')
     #remove the blank lines to avoid list out of index error
